@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GeoJSON.iml" filepath="$PROJECT_DIR$/GeoJSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geojsonify/geojsonify.iml" filepath="$PROJECT_DIR$/geojsonify/geojsonify.iml" />
+    </modules>
+  </component>
+</project>
